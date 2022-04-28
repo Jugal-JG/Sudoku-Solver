@@ -87,7 +87,7 @@ int main(){
     // for(int i =0; i<N; i++){
     //     printf("Enter the %d line in sudoku\n", i+1);
     //     for(int j =0; j<N; j++){
-    //         scanf("%d",grid[i][j]);
+    //         scanf("%d",&grid[i][j]);
     //     }
     // }
 
